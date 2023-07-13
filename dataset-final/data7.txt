@@ -1,0 +1,14 @@
+Where did the crime take place	Prevalence
+At Residence	49
+Near Residence	39
+At Workplace	24
+Near Workplace	11
+On the way to Workplace	8
+Bux/Metro	1
+Taxi/Cab	1
+Public place	7
+Secluded place	9
+Lodge	2
+Strange Place	2
+At resident of accused	3
+Forest	3

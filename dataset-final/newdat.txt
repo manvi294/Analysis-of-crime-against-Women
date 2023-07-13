@@ -1,0 +1,85 @@
+Nature	Rate	Month
+Acid Attack	1	Jan
+Acid Attack	2	Feb
+Acid Attack	0	Mar
+Acid Attack	0	Apr
+Acid Attack	0	May
+Acid Attack	3	Jun
+Acid Attack	1	Jul
+Acid Attack	0	Aug
+Acid Attack	0	Sep
+Acid Attack	0	Oct
+Acid Attack	3	Nov
+Acid Attack	1	Dec
+Dowry death	32	Jan
+Dowry death	17	Feb
+Dowry death	18	Mar
+Dowry death	9	Apr
+Dowry death	27	May
+Dowry death	27	Jun
+Dowry death	49	Jul
+Dowry death	32	Aug
+Dowry death	29	Sep
+Dowry death	26	Oct
+Dowry death	37	Nov
+Dowry death	27	Dec
+Harassment	267	Jan
+Harassment	221	Feb
+Harassment	203	Mar
+Harassment	62	Apr
+Harassment	159	May
+Harassment	273	Jun
+Harassment	493	Jul
+Harassment	352	Aug
+Harassment	372	Sep
+Harassment	429	Oct
+Harassment	509	Nov
+Harassment	448	Dec
+Rape	142	Jan
+Rape	112	Feb
+Rape	90	Mar
+Rape	12	Apr
+Rape	54	May
+Rape	82	Jun
+Rape	149	Jul
+Rape	108	Aug
+Rape	88	Sep
+Rape	111	Oct
+Rape	151	Nov
+Rape	137	Dec
+Sexual Assault	12	Jan
+Sexual Assault	10	Feb
+Sexual Assault	19	Mar
+Sexual Assault	4	Apr
+Sexual Assault	1	May
+Sexual Assault	8	Jun
+Sexual Assault	14	Jul
+Sexual Assault	9	Aug
+Sexual Assault	5	Sep
+Sexual Assault	4	Oct
+Sexual Assault	11	Nov
+Sexual Assault	13	Dec
+Trafficking	6	Jan
+Trafficking	4	Feb
+Trafficking	3	Mar
+Trafficking	1	Apr
+Trafficking	2	May
+Trafficking	1	Jun
+Trafficking	4	Jul
+Trafficking	2	Aug
+Trafficking	2	Sep
+Trafficking	4	Oct
+Trafficking	8	Nov
+Trafficking	3	Dec
+Stalking	18	Jan
+Stalking	16	Feb
+Stalking	9	Mar
+Stalking	15	Apr
+Stalking	12	May
+Stalking	19	Jun
+Stalking	13	Jul
+Stalking	7	Aug
+Stalking	11	Sep
+Stalking	9	Oct
+Stalking	10	Nov
+Stalking	5	Dec

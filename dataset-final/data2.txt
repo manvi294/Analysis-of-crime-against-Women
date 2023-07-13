@@ -1,0 +1,9 @@
+Educational level of the victim	Prevalence
+Illeterate	17
+Primary ( 1 to 4)	18
+Middle ( 6 to 8 )	28
+Secondary ( 9 to 10 )	36
+Higher Secondary (11 to 12)	21
+Graduation	21
+Post- Graduation	1
+Pre- Primary	1

@@ -1,0 +1,5 @@
+Religion of Victim	Prevalence
+Hinduism 	135
+Christianity	8
+Buddhism	2
+Islam	16

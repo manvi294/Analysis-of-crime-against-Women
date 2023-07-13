@@ -1,0 +1,6 @@
+When were victim medically examined	Prevalence
+ Within 24 hrs	40
+After 24  hrs	22
+Before the FIR filing	9
+After the FIR filing	59
+Never	25

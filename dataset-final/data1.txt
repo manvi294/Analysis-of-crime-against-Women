@@ -1,0 +1,5 @@
+Age of the Victim	Prevalence
+Childhood (till 18 years)	24
+Youth Age	47
+Adult Age	10
+Old Age ( above 60 )	3

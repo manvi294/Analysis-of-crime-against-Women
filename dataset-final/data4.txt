@@ -1,0 +1,6 @@
+Caste of the Victim	Prevalence
+NT/DNT	3
+ST	25
+SC	24
+OBC	27
+General	40

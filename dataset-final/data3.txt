@@ -1,0 +1,7 @@
+Accused	Prevalence
+Stranger	16
+Known to the victim	94
+Neighbor	23
+Family	15
+Friend	9
+Husband	1
